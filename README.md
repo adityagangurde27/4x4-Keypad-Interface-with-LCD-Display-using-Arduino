@@ -16,3 +16,5 @@ Applications:
 2.Menu selection interfaces
 3.DIY calculators or control panels
 4.Entry-level learning project for embedded systems and HMI (Human-Machine Interface)
+
+**OUTPUT** : 
